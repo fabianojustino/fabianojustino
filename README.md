@@ -4,8 +4,13 @@
 - 🌱 I’m currently learning React Redux
 - 👯 I’m contributing on Trivia Project...
 
-### Projects
+### Finished Projects
 
 - Trivia
+- Todo List
 - TrybeWarts
 - TrybeTunes
+- TrybeWallet
+- Tryunfo
+- Solar System
+- FrontEnd Online Store
