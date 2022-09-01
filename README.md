@@ -23,8 +23,9 @@
 - Heroku
 
 
-### Finished Projects
+### Main Projects
 
+Front End
 - Trivia
 - Todo List
 - TrybeWarts
@@ -33,4 +34,14 @@
 - Tryunfo
 - Solar System
 - FrontEnd Online Store
+- App de receitas
+
+Backend
+- Projetos com Mysql
+- Talker Manager
+- Store Manager
+- Blogs Api
+- Stranger Things
+- Trybe Smith
+- Trybe futebol clube
 
