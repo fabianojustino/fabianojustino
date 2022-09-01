@@ -1,8 +1,8 @@
 ### About me 👋
 
 - 🔭 I’m currently studying at trybe programming school
-- 🌱 I’m currently learning React Redux
-- 👯 I’m contributing on Trivia Project...
+- 🌱 I’m currently learning TypeScript
+- 👯 I’m devevolpment the Project Trybe Futebol Clube.
 
 
 ### Skills
@@ -16,6 +16,11 @@
 - React lifecycle
 - Functional Components
 - Class Components
+- Mysql
+- TypeScript
+- ORM Sequelize
+- MongoDb
+- Heroku
 
 
 ### Finished Projects
