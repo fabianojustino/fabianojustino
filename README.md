@@ -13,23 +13,6 @@ Eu amo o diferente, amo sentir que faço parte da algo maior, amo contribuir e t
 Aprender e ensinar não é um dom, é uma escolha.
 
 
-### Skills
-- Html and Dom
-- Js
-- Jest
-- Node Js
-- React and React-Redux
-- React Test Library
-- React with Thunk
-- React lifecycle
-- Functional Components
-- Class Components
-- Mysql
-- TypeScript
-- ORM Sequelize
-- MongoDb
-- Heroku
-
 
 ### Main Projects
 
