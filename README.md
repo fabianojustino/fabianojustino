@@ -1,8 +1,16 @@
 ### About me 👋
 
-- 🔭 I’m currently studying at trybe programming school
-- 🌱 I’m currently learning TypeScript
-- 👯 I’m devevolpment the Project Trybe Futebol Clube.
+Olá, sou desenvolvedor Web Full Stack , tenho aproximadamente 1 ano de experiência, desenvolvi mais de 30 projetos na escola de programação Trybe.
+
+Algumas das tecnologia com as quais trabalho em Front-End: Html, Css, JS , React com componentes funcionais e componentes de classe,  React Testing Library, Jest, Manipulação do Dom,  Unix, Bash, Git, GitHub.
+
+Para Back-End : Node JS, Construção de Api's, Mysql, Express, Middlewares de erros, Validations com JOI, Orm Sequelize , JWT, TypeScript, MongoDB, ORD Mongoose.
+
+Todas as tecnologias mencionadas foram aplicadas em projetos individuais e em grupo.
+
+Eu amo o diferente, amo sentir que faço parte da algo maior, amo contribuir e trabalhar com pessoas diferentes.
+
+Aprender e ensinar não é um dom, é uma escolha.
 
 
 ### Skills
